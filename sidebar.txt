@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tew:home|Door43 (tew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tew|d43-tew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tew/archive/master.zip|d43-tew.zip]]
+
+**Recent Changes**
+{{changes>ns = tew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tew|Ethnologue data]]
+
